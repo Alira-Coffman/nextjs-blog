@@ -18,6 +18,7 @@ export default function FirstPost()
         <h2>
             <Link href="/"><a>Back to home we go...</a></Link>
         </h2>
+        
     </Layout>
     );
 }
